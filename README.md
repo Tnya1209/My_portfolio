@@ -1,27 +1,13 @@
-Music Player
-This is a simple and elegant Music Player built using HTML, CSS, and JavaScript. The player allows users to play, pause, skip tracks, and manage their playlist seamlessly.
+Portfolio
+This is a personal portfolio website created using HTML and CSS. The portfolio showcases projects, skills, and experience, providing a comprehensive overview of your professional profile.
 
 Features
-Play and pause functionality
-Skip to the next or previous track
-Display of current track information (title, artist)
-Track progress bar with the ability to seek
-Volume control
-Playlist management
-Responsive design for various screen sizes
+Home section with a brief introduction
+About section with personal and professional details
+Skills section displaying your technical proficiencies
+Projects section showcasing your work with descriptions and links
+Contact section with a contact form and social media links
+Responsive design for optimal viewing on various devices
 Getting Started
 Prerequisites
-To run this project, you need a modern web browser that supports HTML5, CSS3, and JavaScript.
-
-Installation
-Clone the repository to your local machine:
-
-sh
-Copy code
-git clone https://github.com/yourusername/music-player.git
-Navigate to the project directory:
-
-sh
-Copy code
-cd music-player
-Open the index.html file in your preferred web browser.
+To view and edit this project, we need a modern web browser and a text editor or integrated development environment (IDE).
